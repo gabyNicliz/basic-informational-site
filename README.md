@@ -4,7 +4,14 @@ This is the first Node.js project for [The Odin Project](https://www.theodinproj
 It's developed using plain Node.js, [http](https://nodejs.org/api/http.html), [File system](https://nodejs.org/api/fs.html), and [URL](https://nodejs.org/api/url.html) modules, with some ugly frontend using plain HTML.
 
 ## How to run
-In case you already have Node.js installed on your PC, just run the console command
+1 - First clone the project with the console command
+
+```console
+$ git clone git@github.com:gabyNicliz/basic-informational-site.git
+```
+
+
+2 - Then, in case you already have Node.js installed on your PC, just run the console command on the project directory.
 
 ```console
 $ node index.js
